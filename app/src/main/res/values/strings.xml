@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AppSaludar</string>
+    <string name="textTitulo">App de Saludos</string>
+    <string name="textNombre">Nombre</string>
+    <string name="valueNombre">Ingrese su nombre</string>
+    <string name="textEdad">Edad</string>
+    <string name="valueEdad">Ingrese su edad</string>
+    <string name="textCelular">Celular</string>
+    <string name="valueCelular">Ingrese su celular</string>
+    <string name="textEmail">Email</string>
+    <string name="valueEmail">Ingrese su email</string>
+    <string name="textAlready">ALREADY HAVE AN ACCOUNT</string>
+    <string name="textBtnSaludar">Saludar</string>
+</resources>
